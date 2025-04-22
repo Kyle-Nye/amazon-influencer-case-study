@@ -3,6 +3,7 @@
 As part of the Amazon Influencer Program, I’ve built a content system that generates passive income through unboxing videos and product reviews. This repo documents my journey, strategy, and ongoing performance with both sponsored and self-initiated content.
 
 ---
+![Amazon Influencer Profile](assets/amzn-influencer-profile.jpg)
 
 ## 🎥 What I Do
 
